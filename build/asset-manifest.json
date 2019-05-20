@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b87f4046.chunk.js",
+    "main.js.map": "/static/js/main.b87f4046.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.b550b4be.chunk.css": "/static/css/2.b550b4be.chunk.css",
+    "static/js/2.a0c3d669.chunk.js": "/static/js/2.a0c3d669.chunk.js",
+    "static/js/2.a0c3d669.chunk.js.map": "/static/js/2.a0c3d669.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f00a7e6ce62cd0c0fa03f377c4f54c13.js": "/precache-manifest.f00a7e6ce62cd0c0fa03f377c4f54c13.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.b550b4be.chunk.css.map": "/static/css/2.b550b4be.chunk.css.map",
+    "static/media/giftedLogo.png": "/static/media/giftedLogo.d3a77c50.png",
+    "static/media/loadData.gif": "/static/media/loadData.59d75d59.gif",
+    "static/media/search-icon.svg": "/static/media/search-icon.34e14f78.svg"
+  }
+}

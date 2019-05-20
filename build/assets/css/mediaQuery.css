@@ -1,0 +1,146 @@
+@media (max-width:600px)  { 
+/* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+	/*====== GENERAL ======*/
+	body{
+		padding-top:10px;
+	}
+	/*====== HEADER ======*/
+	.companyLogo{
+	    margin-bottom: 3px;
+	    position: absolute;
+	    top: 8px;
+	    right: 74px;
+	    z-index: 1;
+	}
+	.companyLogo h1{
+		font-size: 26px;
+	    margin-top: 5px;
+	    margin-left: 10px;
+	}
+	.companyLogo img {
+	    display: inline-block;
+	    width: 43px;
+	    height: 43px;
+	    position: relative;
+	    z-index: 1;
+	}
+	.featureWrap{
+	    position: absolute;
+	    height: 102px;
+	    left: 0;
+	    top: 0;
+	}
+	.feature{
+		float:none;
+		position: absolute;
+	}
+	.searchFeature {
+	    top: 57px;
+	    left: 14px;
+	    width: 90%;
+	}
+	.filterFeature{
+		left: 17px;
+    	top: 6px;
+	}
+	.filterFeature img {
+	    margin-left: 0;
+		width:37px;
+		height:37px;
+	}
+	.filterFeature ul{
+		top: -13px;
+		width: 137px;
+    	height: 85px;
+	}
+	.filterFeature ul.active{
+	    left: 37px;
+	    top: -1px;
+	    width: 137px;
+	    top: -13px;
+	}
+	.themeFeature {
+	    right: 15px;
+	    top: 8px;
+	    text-align: right;
+	}
+	.themeFeature img {
+		width:38px;
+		height:38px;
+	}
+	.searchLogo {
+	    height: 22px;
+	}
+	.inputSearchWrap {
+	    width: 80%;
+	}
+	.searchLogoWrap {
+	    width: 20%;
+	   	height: 43px;
+	}
+	.searchInput{
+		height: 35px;
+	}
+	/*====== CONTENT ======*/
+	.content{
+		margin-top:102px;
+	}
+	.contentWrap {
+	    padding-top: 0;
+	}
+	.gifBoxWrap {
+		padding-top: 0px;
+	}
+	.gifBoxColumn {
+		width:49%;
+		margin-right:2%;
+	}
+	.evenColumn{
+		margin-right:0;
+	}
+	.imgPause img{
+		width:42px;
+		height:42px;
+	}
+	.imgWrap{
+    	margin-bottom: 4px;
+	}
+	ul.paginationBox li {
+		padding: 7px 12px 7px 16px;
+	}
+	.topPagination{
+		padding-bottom:3px;
+		position:relative;
+		z-index:2;
+	}
+	.themeFeature ul{
+	    left: 0;
+	    top: 0;
+	    right: 20px;
+	    position: absolute;
+	}
+	.themeFeature ul.active{
+		left: -49px;
+	    right: 50px;
+	}
+	/*====== FOOTER ======*/
+	.footer{
+		margin-top: 0;
+	    padding: 10px;
+	}
+}
+
+/*
+@media (min-width:320px)  { 
+}
+@media (min-width:480px)  { 
+}
+@media (min-width:600px)  { 
+}
+@media (min-width:801px)  { 
+}
+@media (min-width:1025px) { 
+}
+@media (min-width:1281px) { 
+}
+*/
