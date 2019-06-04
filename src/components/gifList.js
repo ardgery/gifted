@@ -64,11 +64,6 @@ class GifList extends React.Component {
 		})	
 	}
 
-	componentDidMount(){
-   		const { current } = this.ref;
-    	console.log(current.offsetHeight);
-	}
-
 	componentWillReceiveProps({query}) {
 		let fixQuery;
 		if(query===""){
